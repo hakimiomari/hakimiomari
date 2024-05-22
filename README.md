@@ -23,10 +23,11 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 <div align="center">
   
 </div>
-
-![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
+<div>
+![GitHub stars](https://img.shields.io/github/stars/hakimiomari?style=social)
 
 ![Profile viewers](https://komarev.com/ghpvc/?username=hakimiomari &color=green)
+</div>
 <br>
 ## 🌱 I'm Currently working on:
 - Projects using Laravel, VUE js,
