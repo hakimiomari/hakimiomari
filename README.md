@@ -8,15 +8,15 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
  <img src="https://github-readme-stats.vercel.app/api?username=hakimiomari&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" alt="Kamranullah Hakimi's GitHub Stats" height="155" style="border: 5px solid yellow;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hakimiomari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D" alt="Najibullah Jafari's Contributions" height="155"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibullahjafari&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10&layout=compact" alt="Most used languages" style="border: none;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hakimiomari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D" alt="hakimiomari's Contributions" height="155"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimiomari &bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10&layout=compact" alt="Most used languages" style="border: none;">
   </div>
 </div>
 
 
 <br>
  
-![Najibullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
+![hakimiomari's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hakimiomari &bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
 <br>
 
 
@@ -26,14 +26,14 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
 
-![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
+![Profile viewers](https://komarev.com/ghpvc/?username=hakimiomari &color=green)
 <br>
 ## 🌱 I'm Currently working on:
 - Projects using Laravel, VUE js,
-- Tourism Portal using React, Anertia js and Laravel.
+- School Management system using Tailwind Css, Vue js and Laravel.
 
 ## 💬 Ask Me About
 
 - Anything related to React, Node js, Mongo DB, HTML, CSS, Bootstrap, Tailwind css, Material Design, JavaScript, Mysql, PHP,  Laravel, VUE js, Problem-solving
 - Playing Cricket🏏, Magic Rubik's cube
-- VS Code, PyCharm, Git & GitHub.
+- VS Code, Git & GitHub.
