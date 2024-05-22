@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Kamranullah Hakimi, I am Full-stack web developer.
 <!--
 **hakimiomari/hakimiomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
