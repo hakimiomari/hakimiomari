@@ -1,4 +1,4 @@
-# Hi there, I'm [Najibullah Jafari]()
+# Hi there, I'm [Kamranullah Hakimi]()
 
 ## About Me
 A Full-Stack web developer with a love for coding and crafting digital experiences. I thrive on the challenges that web development offers. When I'm not immersed in code, you'll find me at the chessboard strategizing my next move, solving intriguing problems, or exploring new technologies. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
@@ -34,6 +34,6 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 ## 💬 Ask Me About
 
-- Anything related to React, Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Laravel, VUE js, Problem-solving, Machine learning
-- Playing soccer, chess, Magic Rubik's cube
+- Anything related to React, Node js, Mongo DB, HTML, CSS, Bootstrap, Tailwind css, Material Design, JavaScript, Mysql, PHP,  Laravel, VUE js, Problem-solving
+- Playing Cricket🏏, Magic Rubik's cube
 - VS Code, PyCharm, Git & GitHub.
