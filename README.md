@@ -16,7 +16,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 <br>
  
-![Najibullah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najibullahjafari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
+![Kamranullah Hakimi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hakimiomari&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)
 <br>
 
 
@@ -24,16 +24,16 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
   
 </div>
 
-![GitHub stars](https://img.shields.io/github/stars/najibullahjafari?style=social)
+![GitHub stars](https://img.shields.io/github/stars/hakimiomari?style=social)
 
-![Profile viewers](https://komarev.com/ghpvc/?username=najibullahjafari&color=green)
+![Profile viewers](https://komarev.com/ghpvc/?username=hakimiomari&color=green)
 <br>
 ## 🌱 I'm Currently working on:
-- Projects using Laravel, VUE js,
-- Tourism Portal using React, Anertia js and Laravel.
+- Projects using Laravel, VUE js,Tailwind Css,
+- Scholl Management System using vue js and Laravel.
 
 ## 💬 Ask Me About
 
-- Anything related to React, Redux, HTML, CSS, Python, Ruby on Rails, JavaScript, Postgresql, Mysql, Laravel, VUE js, Problem-solving, Machine learning
+- Anything related to React, HTML, CSS, JavaScript, Mysql, Laravel, VUE js,Node js,Mongo DB,Express Js, Problem-solving, Machine learning
 - Playing soccer, chess, Magic Rubik's cube
-- VS Code, PyCharm, Git & GitHub.
+- VS Code, Git & GitHub.
