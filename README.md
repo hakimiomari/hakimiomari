@@ -1,4 +1,4 @@
-# Hi there, I'm [Najibullah Jafari]()
+# Hi there, I'm [Kamranullah Hakimi]()
 
 ## About Me
 A Full-Stack web developer with a love for coding and crafting digital experiences. I thrive on the challenges that web development offers. When I'm not immersed in code, you'll find me at the chessboard strategizing my next move, solving intriguing problems, or exploring new technologies. Feel free to connect with me via email or on LinkedIn to discuss coding, chess, or anything in between!🚴‍♂️♟️👨‍💻 ⚽.
@@ -7,9 +7,9 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
- <img src="https://github-readme-stats.vercel.app/api?username=najibullahjafari&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" alt="Najibullah Jafari's GitHub Stats" height="155" style="border: 5px solid yellow;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=najibullahjafari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D" alt="Najibullah Jafari's Contributions" height="155"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibullahjafari&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10&layout=compact" alt="Most used languages" style="border: none;">
+ <img src="https://github-readme-stats.vercel.app/api?username=hakimiomari&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e" alt="Kamranullah Hakimi's GitHub Stats" height="155" style="border: 5px solid yellow;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hakimiomari&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D" alt="Kamranullah Hakimi's Contributions" height="155"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimiomari&bg_color=0c002e&title_color=f65ee0&text_color=0CFFD2&icon_color=1495ff&langs_count=10&layout=compact" alt="Most used languages" style="border: none;">
   </div>
 </div>
 
