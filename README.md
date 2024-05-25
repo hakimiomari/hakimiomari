@@ -30,7 +30,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 <br>
 ## 🌱 I'm Currently working on:
 - Projects using Laravel, VUE js,Tailwind Css,
-- Scholl Management System using vue js and Laravel.
+- School Management System using vue js and Laravel.
 
 ## 💬 Ask Me About
 
