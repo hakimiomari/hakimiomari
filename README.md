@@ -29,11 +29,10 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 ![Profile viewers](https://komarev.com/ghpvc/?username=hakimiomari&color=green)
 <br>
 ## 🌱 I'm Currently working on:
-- Projects using Laravel, VUE js,Tailwind Css,
-- School Management System using vue js and Laravel.
+- CRM using React js, and Nest js.
 
 ## 💬 Ask Me About
 
-- Anything related to React, HTML, CSS, JavaScript, Mysql, Laravel, VUE js,Node js,Mongo DB,Express Js, Problem-solving, Machine learning
+- Anything related to HTML, CSS, JavaScript, Node Js, Express Js, Nest Js, Next Js, React, MUI, Tailwind CSS, Bootstrap, Laravel, VUE js, Mysql, PostgreSQL, Prisma, Mongo DB, Problem-solving, Machine learning
 - Playing soccer, chess, Magic Rubik's cube
 - VS Code, Git & GitHub.
