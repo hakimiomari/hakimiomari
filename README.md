@@ -29,7 +29,7 @@ A Full-Stack web developer with a love for coding and crafting digital experienc
 ![Profile viewers](https://komarev.com/ghpvc/?username=hakimiomari&color=green)
 <br>
 ## 🌱 I'm Currently working on:
-- CRM using React js, and Nest js.
+- CRM Project using React js, and Nest js.
 
 ## 💬 Ask Me About
 
